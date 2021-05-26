@@ -35,9 +35,9 @@ else:
 setup(
     name='pydps',
     packages=find_packages(),
-    version='0.1.2.2',
+    version='0.1.2.3',
     license='MIT',
-    description='Small package contains Python implementations of popular design patterns.',
+    description='Small package contains Python implementations of frequently used design patterns.',
     long_description=long_description,
     long_description_content_type='text/markdown',
     author='Hieu Pham',
